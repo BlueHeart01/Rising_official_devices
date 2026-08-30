@@ -17,6 +17,10 @@
 - **Pixel 9 (tokay)** - [`@Slogar25`](https://t.me/Slogar25) && ['@OscarM'](https://t.me/OscarM)
 - **Pixel 9 Pro (caiman)** - [`@Slogar25`](https://t.me/Slogar25) && ['@OscarM'](https://t.me/OscarM)
 - **Pixel 9 Pro Xl (komodo)** - [`@Slogar25`](https://t.me/Slogar25) && ['@OscarM'](https://t.me/OscarM)
+- **Pixel 10 (frankel)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
+- **Pixel 10 Pro (blazer)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
+- **Pixel 10 Pro Xl (mustang)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
+
 
 ## Motorola
 - **Motorola Edge 30 (Dubai)** - [`@Rakhshan7070`](https://t.me/shan_rakh)
