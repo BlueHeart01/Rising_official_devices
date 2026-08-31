@@ -1,3 +1,8 @@
+=========30/08/2026===========
+- fix fingerprint
+- add Google Face Unlock
+- rom source updates
+
 =========28/08/2026===========
 -initial Android 17 build
 
