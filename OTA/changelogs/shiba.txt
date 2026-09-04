@@ -1,3 +1,6 @@
+=========04/09/2026===========
+- hotfix 
+
 =========03/09/2026===========
 - fully fixed and implemented Google Face Unlock
 - fixed Now Playing
