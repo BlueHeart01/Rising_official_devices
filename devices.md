@@ -25,7 +25,6 @@
 ## Motorola
 - **Motorola Edge 30 (Dubai)** - [`@Rakhshan7070`](https://t.me/shan_rakh)
 - **Motorola Edge 30 Neo (Miami)** - [`@Rakhshan7070`](https://t.me/shan_rakh)
-- **Motorola Edge 30 Ultra / X30 Pro (eqs))** - [`@davigamer987`](https://t.me/davigamer987) &&  [`@chettoy`](https://t.me/chettoy)
 
 
 ## Nothing
@@ -48,11 +47,11 @@
 - **POCO F5 Pro/K60 (mondrian)** - [`@Keosh1`](https://t.me/Keosh1)
 - **POCO F6 (peridot)** - [`@Farrukh2002`](https://t.me/farrukh2002) && [`@ath1188`](https://t.me/ath1188)
 - **POCO F6 Pro/K70 (vermeer)** - [`@ByteWave1014`](https://t.me/ByteWave1014)
-- **POCO X3/NFC (surya)** - [`@braindead66`](https://t.me/braindead66)
 - **POCO X4 Pro 5G (veux)** - [`@MrTopia`](https://t.me/mrtopia)
 - **POCO X5 5G/REDMI NOTE 12 5G (stone)** - [`@bittencourtjulival`](https://t.me/bittencourtjulival)
 - **POCO X5 Pro 5G (redwood)** - [`@Blueheart016|SaYaN`](https://t.me/@BlueHeart016)
 - **POCO X6 5G (garnetp)** - [`@mysellysenpai`](https://t.me/mysellysenpai)
+- **POCO X7 Pro 5G (rodin)** - [`@skwel24`](https://t.me/skwel24)
 - **POCO M6 Pro 5G (sky)** - [`@ashwani_212`](https://t.me/ashwani_212)
 - **POCO F7 (onyx)** - [`@K4LCHAKRA`](https://t.me/K4LCHAKRA) && ['@Romgharti'](https://t.me/Romgharti)
 - **POCO F4 GT (ingres)** - ['@itzParsaYC'](https://t.me/itzParsaYC)
@@ -79,7 +78,6 @@
 ## Xiaomi
 - **Mi 9 (cepheus)** - [`@tribual`](https://t.me/tribual)
 - **Mi 10T/Mi 10T pro (apollo)** - [`@MurtazaKolachi`](https://t.me/MurtazaKolachi)
-- **Mi Note 10 Lite (toco)** - [`@fwlhh`](https://t.me/fwlhh)
 - **Xiaomi Pad 6 (pipa)** - [`@CuriousNom`](https://t.me/CuriousNom)
 - **Xiaomi 12 (cupid)** - [`@KernelPanix`](https://t.me/KernelPanix)
 - **Xiaomi 12S (mayfly)** - [`@KernelPanix`](https://t.me/KernelPanix)
